@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>JavaOrdersAPI</groupId>
   <artifactId>JavaOrdersAPI</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>war</packaging>
   <name>JavaOrdersAPI</name>
   <description>Orders application for the Microservices Store Sample</description>
