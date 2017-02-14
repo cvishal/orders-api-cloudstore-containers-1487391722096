@@ -1,6 +1,6 @@
 FROM registry.ng.bluemix.net/ibmliberty:latest
 
-COPY JavaOrdersAPI.war /opt/ibm/wlp/usr/servers/defaultServer/dropins/
+COPY target/JavaOrdersAPI-1.0.war /opt/ibm/wlp/usr/servers/defaultServer/dropins/
 
 EXPOSE 9080
 
