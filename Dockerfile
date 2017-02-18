@@ -1,4 +1,4 @@
-FROM registry.ng.bluemix.net/ibmliberty:latest
+FROM registry.eu-gb.bluemix.net/ibmliberty:latest
 
 COPY target/JavaOrdersAPI-1.0.war /opt/ibm/wlp/usr/servers/defaultServer/dropins/
 
